@@ -1,1 +1,1 @@
-Hello guys
+print(Hello everyone)
