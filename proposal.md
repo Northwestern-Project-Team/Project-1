@@ -29,8 +29,8 @@ We are a software startup researching our next product and are looking for poten
  - _Create a Jupyter Notebook illustrating the final data analysis._
  - _Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data)._
  - _Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation._
-#### Determine potential API strategy
- - _(Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions._
+#### (Optional) Determine potential API strategy
+ - _Use at least one API, if you can find an API with data pertinent to your primary research questions._
 #### Summarize findings
  - _Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots._
 #### Prepare presentation and present!
