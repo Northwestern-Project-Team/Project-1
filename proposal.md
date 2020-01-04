@@ -1,24 +1,24 @@
-# Project 1: Analysis of app store data
+# Project 1: App store data analysis
 
-## Team Members
-Andrew, Grant, Lei, Daniella
+## Team members
+Daniella DeRose, Lei Gu, Grant Sisson, Andrew Suprenant
 
-## Project Description/Outline
+## Project description/outline
 We are a software startup researching our next product and are looking for potentially lucrative niches. So we can develop a better understanding of usage of mobile apps across iPhone and Android platforms, we want to analyze available app store data.
 
-## Research Questions to Answer (subject to change)
+## Research questions to answer (subject to change)
  - Which categories have the highest-price apps?
  - What are the most popular apps?
  - What app categories have the most users?
  - What is relative pricing across categories. Which are most/least expensive?
  - What is the impact of paid versus free on installs and ratings?
 
-## Datasets to Be Used
+## Datasets to be used
  - [Apple Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
  - [Google Play Store](https://www.kaggle.com/lava18/google-play-store-apps)
  - In app-purchase data (if available)
 
-## Rough Breakdown of Tasks 
+## Rough breakdown of work
 
 #### Refine questions
 #### Access initial data set
