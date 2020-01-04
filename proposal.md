@@ -6,6 +6,8 @@ Daniella DeRose, Lei Gu, Grant Sisson, Andrew Suprenant
 ## Project description/outline
 We are a software startup researching our next product and are looking for potentially lucrative niches. So we can develop a better understanding of usage of mobile apps across iPhone and Android platforms, we want to analyze available app store data.
 
+[assignment reference](https://docs.google.com/presentation/d/1D97nYhBr-jFnenSEXbJOFRGOynW2cPqI_wHe8d3mFUw/edit)
+
 ## Research questions to answer (subject to change)
  - Which categories have the highest-price apps?
  - What are the most popular apps?
