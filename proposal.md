@@ -16,8 +16,8 @@ We are a software startup researching our next product and are looking for poten
  - What is the impact of paid versus free on installs and ratings?
 
 ## Datasets to be used
- - [Apple Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) (priority) 
- - [Google Play Store](https://www.kaggle.com/lava18/google-play-store-apps) (stretch goal)
+ - [Google Play Store](https://www.kaggle.com/lava18/google-play-store-apps) (priority) 
+ - [Apple Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) (stretch goal)
  - In app-purchase data (if available)
 
 ## Rough breakdown of work
