@@ -6,16 +6,19 @@ Daniella DeRose, Lei Gu, Grant Sisson, Andrew Suprenant
 ## Project description/outline
 We are a software startup researching our next product and are looking for potentially lucrative niches. So we can develop a better understanding of usage of mobile apps across iPhone and Android platforms, we want to analyze available app store data.
 
-## Research questions to answer (subject to change)
- - Which categories have the highest-price apps?
- - What are the most popular apps?
- - What app categories have the most users?
- - What is relative pricing across categories. Which are most/least expensive?
- - What is the impact of paid versus free on installs and ratings?
+## Research questions to answer (updated)
+ - Which categories have the highest number of available apps? 
+ - Which categories have the highest number of installs?
+ - What is the average price per category? (discounting free apps)
+ - What distribution of free v. paid apps across categories
+ - How do ratings correlate with installs?
+ - How do reviews correlate with installs?
+ - How does size correlate with installs?
+ - What is the correlation between days since last update and rating?
 
 ## Datasets to be used
- - [Apple Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
- - [Google Play Store](https://www.kaggle.com/lava18/google-play-store-apps)
+ - [Google Play Store](https://www.kaggle.com/lava18/google-play-store-apps) (priority)
+ - [Apple Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) (stretch goal)
  - In app-purchase data (if available)
 
 ## Rough breakdown of work
