@@ -24,12 +24,12 @@ How do reviews correlate with installs?
 How does size correlate with installs?
 What is the correlation between days since last update and rating?
 
-#Datasets to be used:
+# Datasets to be used:
 Google Play Store (priority)
 Apple Store (stretch goal)
 In app-purchase data (if available)
 
-#Rough breakdown of work
+# Rough breakdown of work
 Refine questions
 Access initial data set
 Format dataset
@@ -42,7 +42,7 @@ Save PNG images of your visualizations to distribute to the class and instructio
 (Optional) Determine potential API strategy
 Use at least one API, if you can find an API with data pertinent to your primary research questions.
 
-#Summarize findings
+# Summarize findings
 Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots.
 
-#Prepare presentation and present!
+# Prepare presentation and present!
